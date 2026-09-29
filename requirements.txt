@@ -1,0 +1,4 @@
+python-dotenv
+psycopg[binary]
+pinecone
+streamlit
