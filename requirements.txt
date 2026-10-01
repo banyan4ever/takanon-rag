@@ -2,3 +2,6 @@ python-dotenv
 psycopg[binary]
 pinecone
 streamlit
+google-genai
+rank_bm25
+pymupdf
